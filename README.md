@@ -1,3 +1,3 @@
 # practice
-I will commit some homework~
+I will commit some exercises~
 Wish me good luck~
