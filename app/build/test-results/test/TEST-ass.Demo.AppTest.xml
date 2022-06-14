@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ass.Demo.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-14T13:20:21" hostname="LAPTOP-O7GN8T8H" time="0.046">
+<testsuite name="ass.Demo.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-14T14:35:24" hostname="LAPTOP-O7GN8T8H" time="0.048">
   <properties/>
-  <testcase name="appHasAGreeting()" classname="ass.Demo.AppTest" time="0.046"/>
+  <testcase name="should_list_existing_tasks()" classname="ass.Demo.AppTest" time="0.048"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
