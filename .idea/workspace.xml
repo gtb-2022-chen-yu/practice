@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa9ff57-be9b-4bf1-8fd4-1ced44a8488a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/ass/Demo/TodoCannotReadFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/ass/Demo/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/classes/java/main/ass/Demo/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/java/main/ass/Demo/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/classes/java/test/ass/Demo/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/classes/java/test/ass/Demo/AppTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/classes/ass.Demo.AppTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/tests/test/classes/ass.Demo.AppTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/reports/tests/test/packages/ass.Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/tests/test/packages/ass.Demo.html" afterDir="false" />
@@ -17,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/ass/Demo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ass/Demo/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/ass/Demo/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/ass/Demo/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Step06-TDD-Demo/assignment-todo-java-console-application-tdd" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ass.Demo" />
+    </key>
   </component>
   <component name="RunManager" selected="Gradle.Tests in 'ass-Demo.app.test'">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -126,7 +132,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655212479655</updated>
-      <workItem from="1655212481883" duration="3018000" />
+      <workItem from="1655212481883" duration="3416000" />
+      <workItem from="1655298097989" duration="1743000" />
     </task>
     <servers />
   </component>
