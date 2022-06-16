@@ -16,7 +16,7 @@ public class TaskRepository {
             //result.add(i + 1 + " " + lines.get(i));
             final var id = i + 1;
             final var line = lines.get(i);
-            final var name = line;
+            final var name = line.split(" ",2)[1];
             final var task = new Task(id, name);
 
             tasks.add(task);
