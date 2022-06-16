@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ass.Demo.AppTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-06-16T07:43:13" hostname="LAPTOP-O7GN8T8H" time="0.07">
+<testsuite name="ass.Demo.AppTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-06-16T08:23:10" hostname="LAPTOP-O7GN8T8H" time="0.03">
   <properties/>
-  <testcase name="should_list_existing_tasks()" classname="ass.Demo.AppTest" time="0.07">
+  <testcase name="should_list_existing_tasks()" classname="ass.Demo.AppTest" time="0.03">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;[# To be done, 1 Task 01, 2 Task 02]&gt; but was: &lt;[# To be done, 1 Task 01, 2 Task 02, 3 Task 03, 4 Task 04]&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;[# To be done, 1 Task 01, 2 Task 02]&gt; but was: &lt;[# To be done, 1 Task 01, 2 Task 02, 3 Task 03, 4 Task 04]&gt;
 	at app//org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at app//org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
